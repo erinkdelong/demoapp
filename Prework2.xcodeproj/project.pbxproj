@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C734746825CA7EEC000CD319 /* Prework2_Main_Storyboard_Copy.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C734746625CA7EEC000CD319 /* Prework2_Main_Storyboard_Copy.storyboard */; };
 		C7A9AEBB25C7D5E100CDE785 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9AEBA25C7D5E100CDE785 /* AppDelegate.swift */; };
 		C7A9AEBD25C7D5E100CDE785 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9AEBC25C7D5E100CDE785 /* SceneDelegate.swift */; };
 		C7A9AEBF25C7D5E100CDE785 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9AEBE25C7D5E100CDE785 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C734746725CA7EEC000CD319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Prework2/Base.lproj/Prework2_Main_Storyboard_Copy.storyboard; sourceTree = "<group>"; };
 		C7A9AEB725C7D5E100CDE785 /* Prework2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7A9AEBA25C7D5E100CDE785 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7A9AEBC25C7D5E100CDE785 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		C7A9AEAE25C7D5E100CDE785 = {
 			isa = PBXGroup;
 			children = (
+				C734746625CA7EEC000CD319 /* Prework2_Main_Storyboard_Copy.storyboard */,
 				C7A9AEB925C7D5E100CDE785 /* Prework2 */,
 				C7A9AED025C7D5E200CDE785 /* Prework2Tests */,
 				C7A9AEDB25C7D5E200CDE785 /* Prework2UITests */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7A9AEC725C7D5E200CDE785 /* LaunchScreen.storyboard in Resources */,
+				C734746825CA7EEC000CD319 /* Prework2_Main_Storyboard_Copy.storyboard in Resources */,
 				C7A9AEC425C7D5E200CDE785 /* Assets.xcassets in Resources */,
 				C7A9AEC225C7D5E100CDE785 /* Main.storyboard in Resources */,
 			);
@@ -296,6 +300,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		C734746625CA7EEC000CD319 /* Prework2_Main_Storyboard_Copy.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C734746725CA7EEC000CD319 /* Base */,
+			);
+			name = Prework2_Main_Storyboard_Copy.storyboard;
+			sourceTree = "<group>";
+		};
 		C7A9AEC025C7D5E100CDE785 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
